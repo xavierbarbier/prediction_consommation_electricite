@@ -2,3 +2,4 @@
 * Analyse série temporelle de consommation d'électricité
 * décomposition saisonnière
 * comparaison de modèle de prévision (Holt-Winters, SARIMA)
+* prévision sur 12 mois de la consommation corrigée de l'effet température
