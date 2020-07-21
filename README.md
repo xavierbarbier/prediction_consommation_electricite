@@ -1,2 +1,4 @@
-# prediction_consommation_electricite
-Analyse série temporelle de consommation d'électricité et comparaison de modèle de prévision (Holt-Winters, SARIMA)
+# Prediction consommation electricite
+* Analyse série temporelle de consommation d'électricité
+* décomposition saisonnière
+* comparaison de modèle de prévision (Holt-Winters, SARIMA)
